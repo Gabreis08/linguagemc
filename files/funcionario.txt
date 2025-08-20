@@ -1,0 +1,8 @@
+Nome: roberto
+Nome: patricio
+Salário: R$ 2.50Nome: fabio
+Salário: R$ 2458.00Liquído: R$ 3564.10
+Nome: junior
+
+Salário: R$ 2223.00
+Liquído: R$ 3779.10
